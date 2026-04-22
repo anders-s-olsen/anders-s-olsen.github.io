@@ -45,16 +45,16 @@ sections:
 #        Please reach out to collaborate 😃
 #    design:
 #      columns: '1'
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: citation # change to article-grid
+#  - block: collection
+#    id: publications
+#    content:
+#      title: Publications
+#     filters:
+#       folders:
+#          - publications
+#        featured_only: true
+#    design:
+#      view: citation # change to article-grid
       #columns: 2
   #- block: collection
   #  content:
