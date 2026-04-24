@@ -1,0 +1,5 @@
+/* Make markdown/resume sections wider */
+.article-container,
+.home-section .container {
+  max-width: 1200px;
+}
