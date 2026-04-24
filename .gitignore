@@ -6,6 +6,8 @@
 # Hugo Build Artifacts
 # ============================================================================
 
+data/publications.bib
+
 # Generated site output
 public/
 
