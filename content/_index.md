@@ -33,48 +33,74 @@ sections:
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: rounded # Options: circle (default), square, rounded
-#  - block: markdown
-#    content:
-#      title: '📚 My Research'
-#      subtitle: ''
-#      text: |-
-#        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-#
-#        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-#
-#        Please reach out to collaborate 😃
-#    design:
-#      columns: '1'
-#  - block: collection
-#    id: publications
-#    content:
-#      title: Publications
-#     filters:
-#       folders:
-#          - publications
-#        featured_only: true
-#    design:
-#      view: citation # change to article-grid
-      #columns: 2
-  - block: collection
+  - block: markdown
+    id: experience
     content:
-      title: Recent Publications
+      title: 'Current and past interests'
+      subtitle: ''
+      text: |-
+        
+        Current interests include:
+        - Unsupervised ML for (static/dynamic) (structural/functional) (human/porcine) brain (activity/connectivity).
+        - Applying advanced and appropriate statistical (mixture) distributions, e.g., directional statistics.
+        - Low-rank models of high-resolution brain connectivity networks.
+        - Multimodal modeling, e.g., joint modeling of fMRI, EEG, and PET data.
+        - Shift- and stretch-invariant unsupervised modeling. 
+        - Preprocessing and denoising of fMRI and EEG data.
+        - Reducing the need for heuristics in neurocomputational modeling. 
+
+        Specific ML methods I have experience with:
+        - K-means/mixture modeling/Hidden Markov models for uni/multi/matrix-variate clustering
+        - Matrix and tensor factorizations e.g., (sparse) PCA, ICA, Archetypal analysis, Tucker, CP
+        - Riemannian statistical distributions: Watson, Angular central Gaussian, Wishart etc.
+        - Geometry-aware statistical modeling on the (complex) (hyper-) sphere, Grassmann, torus, SPD manifold
+        - Graph analyses and graph signal processing
+        - Multi-subject and multi-modal data fusion (e.g., simultaneous modeling of fMRI, EEG, and MEG data)
+        - Statistical methods: Mixed effects models, survival analysis
+        - Unnormalized mixture models
+        - Stochastic block models
+        - Low-rank model reparametrization
+        - Shift- and stretch-invariant non-negative matrix factorization / sparse coding
+        - Phase coherence analysis, including the Hilbert transform
+        - Empirical/Variational mode decompositions
+        - Procrustes analysis
+        - Generalized eigendecompositions
+        - Spectral analysis, e.g., multitaper spectral estimation
+    design:
+      columns: '1'
+  - block: markdown
+    id: student_projects
+    content:
+      title: 'Potential student projects'
+      subtitle: ''
+      text: |-
+        - Pulse detection in fast fMRI during sleep data using, e.g., ICA or sparse coding with a potential temporal shift invariance. **Significance**: To show the existence of norepinephrine spikes in the sleeping brain, signifying a potential important working mechanism of the *glymphatic system*, which is thought to cleanse the brain during sleep by propagating cerebrospinal fluid through the brain parenchyma. **Suggested prerequisites**: Coding experience in python/pytorch, interest in unsupervised machine learning and the brain. 
+        - Interregional brain phase coherence alterations as a function of psychedelic drugs. Two datasets: One on the acute effects of psilocybin (n=28) and one on the long-term effects of psilocybin (n~80 ish) (possible to include even more datasets). We have previously shown that a certain network of frontoparietal and default mode regions appear to be reduced in activity acutely following psilocybin. We now have improved methods and access to further datasets, allowing us to conduct a confirmatory study on the previously shown effects. **Significance**: The subjective effect of psychedelics are clear but previous analyses on fMRI data have shown differing results between analysis method and research groups. With the phase coherence analysis, we believe to be able to show consistent effects across datasets. **Suggested prerequisites**: Interest in psychedelic drugs and the brain, some coding experience (less method development, more analysis and data handling).
+        - Requirements for the Hilbert transform in fMRI data. The Hilbert transform is used to assess phase coherence between regional brain signals, but generally requires data to be "monocomponent", i.e., contains only one "type" of oscillation. Real data, both M/EEG and fMRI do not generally uphold this but nevertheless the Hilbert transform is still used to assess phase coherence. In this project we want to figure out the implications of this, i.e., 1. how much signal do we capture with existing methods and 2. what can we do to capture more (artefact removal, filtering etc). **Significance**: This study will enable a more correct characterization of brain networks by reducing the heuristics needed to model such. **Suggested prerequisites**: An interest in math and/or signal processing and coding in matlab or python. The project will mainly be theoretical / use synthetic data but application to brain networks is a possibility. 
+
+    design:
+      columns: '1'
+  - block: collection
+    id: publications
+    content:
+      title: Publications
       text: ''
+      count: 0
       filters:
         folders:
           - publications
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
   #- block: collection
   #  id: news
   #  content:
