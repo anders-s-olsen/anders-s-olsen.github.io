@@ -12,7 +12,7 @@ postnominals:
   - PhD
   - MIEEE
 status:
-  icon: "☕️"
+  icon: ""
 role: Postdoc
 bio: |
   I am a postdoc specializing in unsupervised ML methods for understanding the dynamics of brain connectivity and function. I apply my methods to functional neuroimaging data from consciousness-perturbing experiments, including psychedelic drugs, coma-patients, and sleep.
@@ -26,6 +26,8 @@ bio: |
 affiliations:
   - name: Neurobiology Research Unit, Rigshospitalet
     url: https://nru.dk/
+  - name: PhD in unsupervised ML, MSc/BSc in biomedical engineering, Technical University of Denmark
+    url: https://www.dtu.dk/english
 links:
   - icon: at-symbol
     url: 'mailto:anders.stevnhoved.olsen@gmail.com'
@@ -41,10 +43,6 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1275-6660
 
-interests:
-  - Unsupervised machine learning
-  - Functional and structural neuroimaging
-  - Riemannian modeling
 education:
   - degree: PhD Unsupervised Machine Learning and Functional Neuroimaging
     institution: Technical University of Denmark
