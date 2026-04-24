@@ -96,6 +96,9 @@ hugoblox:
       enable: false
       text: ""
       url: ""
+    logo:
+      text: "Anders S Olsen"
+      filename: "icon.png"
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER

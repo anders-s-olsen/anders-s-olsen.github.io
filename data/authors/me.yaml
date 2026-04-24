@@ -15,7 +15,9 @@ status:
   icon: "☕️"
 role: Postdoc
 bio: |
-  I am a postdoc specializing in unsupervised ML methods for understanding the dynamics of brain connectivity and function. During my PhD I have focused on methods for modeling phase coherence networks in the healthy human brain using functional neuroimaging data, including fMRI, M/EEG, and PET/SPECT. At the [Neurobiology Research Unit](https://nru.dk) I currently work on human fMRI data from psychedelic drug and sleep experiments as well as porcine EEG and SPECT data from a glymphatic system experiment as well as data handling and preprocessing across several modalities and studies. 
+  I am a postdoc specializing in unsupervised ML methods for understanding the dynamics of brain connectivity and function. I apply my methods to functional neuroimaging data from consciousness-perturbing experiments, including psychedelic drugs, coma-patients, and sleep.
+  During my PhD I have focused on methods for modeling phase coherence networks in the healthy human brain using functional neuroimaging data, including fMRI and M/EEG. 
+  At the [Neurobiology Research Unit](https://nru.dk) I currently work on human fMRI/EEG/PET/SPECT/ASL data from psilocybin/lsd and sleep experiments. as well as porcine EEG and SPECT data from a glymphatic system experiment as well as data handling and preprocessing across several modalities and studies. 
 
   Please see my [scolar](https://scholar.google.com/citations?hl=en&user=lsFNPU0AAAAJ&view_op=list_works&sortby=pubdate) for my latest publications. 
 
