@@ -15,7 +15,7 @@ authors:
 - Maiken Nedergaard
 - Gitte Moos Knudsen
 date: '2025-11-01'
-publishDate: '2026-04-24T12:22:38.589458Z'
+publishDate: '2026-04-24T12:25:01.671627Z'
 publication_types:
 - article-journal
 publication: '*PLOS Biology*'
