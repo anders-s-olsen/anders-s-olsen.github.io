@@ -15,11 +15,9 @@ status:
   icon: ""
 role: Postdoc
 bio: |
-  I am a postdoc specializing in unsupervised ML methods for understanding the dynamics of brain connectivity and function. I apply my methods to functional neuroimaging data from consciousness-perturbing experiments, including psychedelic drugs, coma-patients, and sleep.
+  I am a postdoc specializing in unsupervised ML methods for understanding the dynamics of brain connectivity and function. I apply my methods to functional neuroimaging data from healthy controls and consciousness-perturbing experiments and patient groups, including psychedelic drugs, coma-patients, and sleep.
   During my PhD I focused on methods for modeling phase coherence networks in the healthy human brain using functional neuroimaging data, including fMRI and M/EEG. 
-  At the [Neurobiology Research Unit](https://nru.dk) I currently work on human fMRI/EEG/PET/SPECT/ASL data from psilocybin/lsd and sleep experiments as well as porcine EEG, fMRI SPECT data from a glymphatic system experiment. 
-
-  Please see my [scholar](https://scholar.google.com/citations?hl=en&user=lsFNPU0AAAAJ&view_op=list_works&sortby=pubdate) for my latest publications. 
+  At the [Neurobiology Research Unit](https://nru.dk) I currently work on human fMRI/EEG/PET/SPECT/ASL data from psilocybin/lsd and sleep experiments as well as porcine EEG/fMRI/SPECT data from a glymphatic system experiment. 
 
   I maintain a close collaboration with the [lab of Prof. Morten Mørup](https://mortenmorup.dk/), who supervised my BSc/MSc/PhD. Furthermore, I collaborate with the [lab of Prof. Dimitri Van De Ville](https://miplab.epfl.ch) in Geneva, Switzerland, where I have studied graph signal processing of functional neuroimaging data on structural connectomes. 
 
