@@ -1,7 +1,7 @@
 build:
   hugo_version: '0.159.2'
 deploy:
-  # Deployment target: github-pages, netlify, vercel, cloudflare, or none
+  # Deployment target: github-pages or none
   host: 'github-pages'
 template:
   id: "academic-cv"

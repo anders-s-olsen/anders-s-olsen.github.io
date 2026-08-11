@@ -49,7 +49,7 @@ jobs:
         HOST=${HOST:-github-pages}
         
         # Validate known hosts
-        if [[ ! "$HOST" =~ ^(github-pages|netlify|vercel|cloudflare|none)$ ]]; then
+        if [[ ! "$HOST" =~ ^(github-pages|none)$ ]]; then
           echo "::warning::Unknown deploy host '$HOST', defaulting to github-pages"
           HOST="github-pages"
         fi
