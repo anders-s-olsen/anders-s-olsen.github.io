@@ -15,11 +15,19 @@ status:
   icon: ""
 role: Postdoc
 bio: |
-  I am a postdoc specializing in unsupervised ML methods for understanding the dynamics of brain connectivity and function. I apply my methods to functional neuroimaging data from healthy controls and consciousness-perturbing experiments and patient groups, including psychedelic drugs, coma-patients, and sleep.
-  During my PhD I focused on methods for modeling phase coherence networks in the healthy human brain using functional neuroimaging data, including fMRI and M/EEG. 
-  At the [Neurobiology Research Unit](https://nru.dk) I currently work on human fMRI/EEG/PET/SPECT/ASL data from psilocybin/lsd and sleep experiments as well as porcine EEG/fMRI/SPECT data from a glymphatic system experiment. 
 
-  I maintain a close collaboration with the [lab of Prof. Morten Mørup](https://mortenmorup.dk/), who supervised my BSc/MSc/PhD. Furthermore, I collaborate with the [lab of Prof. Dimitri Van De Ville](https://miplab.epfl.ch) in Geneva, Switzerland, where I have studied graph signal processing of functional neuroimaging data on structural connectomes. 
+  I am a postdoc specializing in how patterns of brain activity and connectivity change over time. I develop mathematical and computational tools for analysing functional neuroimaging data, with the broader aim of helping to understand complex brain dynamics. My research combines unsupervised machine learning, directional statistics, signal processing, and neuroscience.
+  I work with fMRI, EEG/MEG, PET, SPECT, and ASL data from healthy participants, consciousness-altering experiments, and patient groups. My current application areas include psychedelic states, sleep and glymphatic physiology, coma and other disorders of consciousness, and the relationship between brain structure and function.
+
+  During my PhD, I developed methods for studying phase coherence and transient brain states in fMRI, EEG, and MEG data. Much of this work involved directional statistics.
+  At the [Neurobiology Research Unit](https://nru.dk), I currently analyse human neuroimaging data from psilocybin, LSD, and sleep experiments, as well as EEG, fMRI, and SPECT data from porcine models of the glymphatic system. I also work on computational approaches for PET and SPECT analysis.
+
+  I maintain a close collaboration with the [lab of Prof. Morten Mørup](https://mortenmorup.dk/), who supervised my BSc, MSc, and PhD, and with the [lab of Prof. Dimitri Van De Ville](https://miplab.epfl.ch) in Geneva, where I have worked on graph signal processing and brain structure–function relationships.
+  My ongoing projects also include a overview of directional statistics in signal processing with Kanti Mardia and an investigation of brain dynamics in comatose patients with Daniel Kondziella.
+
+  I have first-authored in PNAS, Nature Communications, NeuroImage, and Frontiers in Neuroscience, as well as several IEEE conference contributions and co-author contributions to various neuroscience journals.
+
+
 
 affiliations:
   - name: Neurobiology Research Unit, Rigshospitalet

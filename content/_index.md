@@ -40,32 +40,18 @@ sections:
       subtitle: ''
       text: |-
         
-        Current interests include:
-        - Unsupervised ML for (static/dynamic) (structural/functional) (human/porcine) brain (activity/connectivity).
-        - Applying advanced and appropriate statistical (mixture) distributions, e.g., directional statistics.
-        - Low-rank models of high-resolution brain connectivity networks.
-        - Multimodal modeling, e.g., joint modeling of fMRI, EEG, and PET data.
-        - Shift- and stretch-invariant unsupervised modeling. 
-        - Preprocessing and denoising of fMRI and EEG data.
-        - Reducing the need for heuristics in neurocomputational modeling. 
+        My methodological experience includes:
 
-        Specific ML methods I have experience with:
-        - K-means/mixture modeling/Hidden Markov models for uni/multi/matrix-variate clustering
-        - Matrix and tensor factorizations e.g., (sparse) PCA, ICA, Archetypal analysis, Tucker, CP
-        - Riemannian statistical distributions: Watson, Angular central Gaussian, Wishart etc.
-        - Geometry-aware statistical modeling on the (complex) (hyper-) sphere, Grassmann, torus, SPD manifold
-        - Graph analyses and graph signal processing
-        - Multi-subject and multi-modal data fusion (e.g., simultaneous modeling of fMRI, EEG, and MEG data)
-        - Statistical methods: Mixed effects models, survival analysis
-        - Unnormalized mixture models
-        - Stochastic block models
-        - Low-rank model reparametrization
-        - Shift- and stretch-invariant non-negative matrix factorization / sparse coding
-        - Phase coherence analysis, including the Hilbert transform
-        - Empirical/Variational mode decompositions
-        - Procrustes analysis
-        - Generalized eigendecompositions
-        - Spectral analysis, e.g., multitaper spectral estimation
+        - Unsupervised and probabilistic modeling: K-means, mixture models, Hidden Markov models, and stochastic block models for univariate, multivariate, and matrix-variate data.
+        - Matrix, tensor, and low-rank modeling: PCA and sparse PCA, ICA, NMF, sparse coding, archetypal analysis, coupled generator decompositions, Tucker and CP decompositions, generalized eigendecompositions, low-rank reparameterization.
+        - Directional and manifold-valued statistics on spaces including the real and complex hyperspheres, Grassmann manifold, torus, SPD/SPSD manifolds.
+        - Time-series and time–frequency analysis: Phase-coherence analysis, multitaper spectral and cross-spectral estimation, empirical and variational mode decomposition, time-shift- and time-stretch-invariant modeling.
+        - Graph and spatial analysis: Graph analysis, graph signal processing, structural-connectome and cortical-geometric eigenmodes, Procrustes alignment.
+        - Multisubject and multimodal data fusion: Joint modeling across subjects and functional neuroimaging modalities, particularly fMRI and combined EEG/MEG data.
+        - Neuroimaging analysis software: fMRIPrep, ASLPrep, MRIQC, TEDANA, SPM, FSL, MNE-Python, EEGLAB, and Connectome Workbench.
+        - Proramming in Python (primary language since 2021), Matlab (since 2015), R (only minor experience)
+
+
     design:
       columns: '1'
   - block: markdown
