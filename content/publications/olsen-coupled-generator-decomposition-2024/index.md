@@ -6,7 +6,7 @@ authors:
 - Jesper D. Nielsen
 - Morten Mørup
 date: '2024-08-01'
-publishDate: '2026-04-24T14:21:33.096780Z'
+publishDate: '2026-08-11T19:06:36.856105Z'
 publication_types:
 - paper-conference
 publication: '*2024 32nd European Signal Processing Conference (EUSIPCO)*'
@@ -31,9 +31,10 @@ abstract: Data fusion modeling can identify common features across diverse data 
   new avenue for data fusion.
 tags:
 - Brain modeling
+- Electroencephalography
+- Stochastic processes
 - Data fusion
 - Data integration
-- Electroencephalography
 - Faces
 - Generators
 - Magnetoencephalography
@@ -44,5 +45,7 @@ tags:
 - Sparse matrices
 - Sparse principal component analysis
 - Spatiotemporal variability
-- Stochastic processes
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10715032
 ---

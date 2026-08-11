@@ -1,6 +1,6 @@
 ---
-title: Combining Electro- and Magnetoencephalography Data Using Directional Archetypal
-  Analysis
+title: Combining electro- and magnetoencephalography data using directional archetypal
+  analysis
 authors:
 - Anders S. Olsen
 - Rasmus M. T. Høegh
@@ -8,7 +8,7 @@ authors:
 - Kristoffer H. Madsen
 - Morten Mørup
 date: '2022-07-01'
-publishDate: '2026-04-24T14:21:33.089047Z'
+publishDate: '2026-08-11T19:06:36.753265Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Neuroscience*'
@@ -19,9 +19,9 @@ abstract: Metastable microstates in electro- and magnetoencephalographic (EEG & 
   traverses microstates in a discrete rather than continuous fashion. We present multimodal,
   multisubject directional archetypal analysis as a scale and polarity invariant extension
   to archetypal analysis using a loss function based on the Watson distribution. With
-  this method, EEG/MEG microstates are modeled using subject- and modality-specific  textittextbraceleft
-  archetypestextbraceright that are representative, distinct topographic maps between
-  which the brain continuously traverses. Archetypes are specified as convex combinations
+  this method, EEG/MEG microstates are modeled using subject- and modality-specific
+  textitarchetypes that are representative, distinct topographic maps between which
+  the brain continuously traverses. Archetypes are specified as convex combinations
   of unit norm input data based on a shared generator matrix, thus assuming that the
   timing of neural responses to stimuli is consistent across subjects and modalities.
   The input data is reconstructed as convex combinations of archetypes using a subject-
@@ -36,12 +36,15 @@ abstract: Metastable microstates in electro- and magnetoencephalographic (EEG & 
   variability. The model is readily extendable to other modalities ensuring component
   correspondence while elucidating spatiotemporal signal variability.
 tags:
-- archetypal analysis
-- directional statistics
 - Electroencephalography
 - Magnetoencephalography
-- Microstates
-- multimodal integration
 - Spatiotemporal variability
+- Microstates
 - Watson distribution
+- directional statistics
+- archetypal analysis
+- multimodal integration
+links:
+- name: URL
+  url: https://www.frontiersin.org/articles/10.3389/fnins.2022.911034/full
 ---

@@ -8,7 +8,7 @@ authors:
 - Mikkel N. Schmidt
 - Morten Mørup
 date: '2023-06-01'
-publishDate: '2026-04-24T14:21:33.081959Z'
+publishDate: '2026-08-11T19:06:36.829838Z'
 publication_types:
 - paper-conference
 publication: '*2023 IEEE International Conference on Acoustics, Speech, and Signal
@@ -23,15 +23,18 @@ abstract: The development of appropriate models for dynamic functional connectiv
   statistical distributions and display their performance on synthetic data and task-fMRI
   data involving a finger-tapping task.
 tags:
-- Analytical models
-- Angular Central Gaussian
 - Brain modeling
-- Dynamic functional connectivity
-- Hidden Markov models
-- Leading eigenvector dynamics analysis
 - Markov processes
+- Dynamic functional connectivity
+- Statistical distributions
 - Mixture models
 - Signal processing
-- Statistical distributions
+- Hidden Markov models
+- Analytical models
+- Angular Central Gaussian
+- Leading eigenvector dynamics analysis
 - Watson
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10193021
 ---

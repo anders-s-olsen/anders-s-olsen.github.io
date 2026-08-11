@@ -1,12 +1,12 @@
 ---
-title: Uncovering Dynamic Human Brain Phase Coherence Networks
+title: Uncovering dynamic human brain phase coherence networks
 authors:
 - Anders S. Olsen
 - Anders Brammer
 - Patrick M. Fisher
 - Morten Moerup
 date: '2024-11-01'
-publishDate: '2026-04-24T14:21:33.150020Z'
+publishDate: '2026-08-11T19:06:36.658795Z'
 publication_types:
 - manuscript
 publication: '*bioRxiv*'
@@ -27,4 +27,7 @@ abstract: "Complex behavioral and cognitive processes emerge from coordinated co
   \ and can easily distinguish task-related brain function. We provide an open-source,\
   \ Python-based toolbox (\\\"Phase Coherence Mixture Modeling\\\" (PCMM): github.com/anders-s-olsen/PCMM)\
   \ to facilitate and promote implementation of these models."
+links:
+- name: URL
+  url: https://www.biorxiv.org/content/10.1101/2024.11.15.623830v1
 ---

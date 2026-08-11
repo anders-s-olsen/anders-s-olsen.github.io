@@ -16,7 +16,7 @@ authors:
 - Oskar Hansson
 - Hamid Behjat
 date: '2025-04-01'
-publishDate: '2026-04-24T14:21:33.074170Z'
+publishDate: '2026-08-11T19:06:37.089079Z'
 publication_types:
 - paper-conference
 publication: '*2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)*'
@@ -35,17 +35,20 @@ abstract: Hemispheric asymmetry is a universal property of brain organization wi
   asymmetry. Moreover, aggregates of the pathological tau protein manifest subtle
   asymmetries at varying spatial scales along the disease continuum.
 tags:
-- Alzheimer's disease
-- Alzheimer's Disease
-- Brain
-- Cortical Asymmetry
 - Functional magnetic resonance imaging
+- Brain
+- Alzheimer's disease
+- Pathology
+- Alzheimer's Disease
+- Cortical Asymmetry
 - Geometric Eigenmodes
 - Geometry
 - Indexes
 - Organizations
-- Pathology
 - Pattern matching
 - Protein engineering
 - Proteins
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10980761
 ---

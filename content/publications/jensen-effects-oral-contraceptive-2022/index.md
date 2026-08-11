@@ -10,7 +10,7 @@ authors:
 - Patrick MacDonald Fisher
 - Vibe Gedsoe Frokjaer
 date: '2022-06-01'
-publishDate: '2026-04-24T14:21:33.043581Z'
+publishDate: '2026-08-11T19:06:36.783015Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Neuroscience*'
@@ -26,7 +26,7 @@ abstract: Hormonal contraceptive drugs are used by adolescent and adult women wo
   (characteristic path length) as well as dynamic functional brain connectivity using
   Leading Eigenvector Dynamic Analysis and diametrical clustering. These metrics were
   calculated for each scan session during the serial sampling periods to compare metrics
-  between the subject's natural and contraceptive cycles. Modularity, system segregation,
+  between the subject’s natural and contraceptive cycles. Modularity, system segregation,
   and characteristic path length were statistically significantly higher across the
   natural compared to contraceptive cycle scans. We also observed a shift in the prevalence
   of two discrete brain states when using the contraceptive. Our results suggest a
@@ -38,10 +38,10 @@ abstract: Hormonal contraceptive drugs are used by adolescent and adult women wo
   to which these effects generalise across the population and the possible impact
   of a year-long period between conditions.
 tags:
+- functional magnetic resonance imaging (fMRI)
 - Brain modularity
 - Dynamic functional connectivity (dFC)
 - functional connectivity (FC)
-- functional magnetic resonance imaging (fMRI)
 - Hormonal contraceptive
 - Menstrual Cycle
 - oral contraceptive (OC)

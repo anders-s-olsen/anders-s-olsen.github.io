@@ -9,7 +9,7 @@ authors:
 - Dimitri Van De Ville
 - Hamid Behjat
 date: '2025-04-01'
-publishDate: '2026-04-24T14:21:33.119067Z'
+publishDate: '2026-08-11T19:06:37.116535Z'
 publication_types:
 - paper-conference
 publication: '*2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)*'
@@ -29,18 +29,21 @@ abstract: Understanding the interplay between human brain structure and function
   innovation to better quantify and understand the degree to which brain structure
   constrains brain function.
 tags:
-- Accuracy
-- Biomedical imaging
 - Brain modeling
-- brain structure-function interplay
-- cortical geometry
+- Magnetic resonance imaging
 - functional MRI
 - Geometry
+- Accuracy
+- Biomedical imaging
+- brain structure-function interplay
+- cortical geometry
 - Image reconstruction
-- Magnetic resonance imaging
 - Signal reconstruction
 - Smoothing methods
 - structural connectivity
 - Surface reconstruction
 - Technological innovation
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10980669
 ---

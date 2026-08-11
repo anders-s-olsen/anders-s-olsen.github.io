@@ -4,7 +4,7 @@ title: Uncovering Brain Dynamics Using Directional Statistics and Functional Neu
 authors:
 - Anders Stevnhoved Olsen
 date: '2025-01-01'
-publishDate: '2026-04-24T14:21:33.137556Z'
+publishDate: '2026-08-11T19:06:37.033807Z'
 publication_types:
 - book
 publication: '*Technical University of Denmark*'

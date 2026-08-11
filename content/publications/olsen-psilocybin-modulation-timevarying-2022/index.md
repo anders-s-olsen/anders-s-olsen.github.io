@@ -1,6 +1,6 @@
 ---
-title: Psilocybin Modulation of Time-Varying Functional Connectivity Is Associated
-  with Plasma Psilocin and Subjective Effects
+title: Psilocybin modulation of time-varying functional connectivity is associated
+  with plasma psilocin and subjective effects
 authors:
 - Anders S. Olsen
 - Anders Lykkebo-Valløe
@@ -13,7 +13,7 @@ authors:
 - Gitte M. Knudsen
 - Patrick M. Fisher
 date: '2022-12-01'
-publishDate: '2026-04-24T14:21:33.111218Z'
+publishDate: '2026-08-11T19:06:37.060717Z'
 publication_types:
 - article-journal
 publication: '*NeuroImage*'
@@ -48,10 +48,13 @@ abstract: Background Psilocin, the neuroactive metabolite of psilocybin, is a se
   to a more comprehensive neurobiological framework underlying acute effects of serotonergic
   psychedelics.
 tags:
-- Connectivity
 - Dynamics
+- Connectivity
 - FMRI
 - Psilocybin
 - Psychedelics
 - TvFC
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S1053811922008370
 ---

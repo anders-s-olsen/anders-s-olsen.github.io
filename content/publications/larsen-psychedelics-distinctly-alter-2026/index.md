@@ -1,5 +1,5 @@
 ---
-title: Psychedelics Distinctly Alter Brain Entropy and Complexity Compared to Psychostimulants
+title: Psychedelics distinctly alter brain entropy and complexity compared to psychostimulants
 authors:
 - K. Larsen
 - D. E. McCulloch
@@ -16,7 +16,7 @@ authors:
 - M. Avram
 - P. M. Fisher
 date: '2026-01-01'
-publishDate: '2026-04-24T14:21:33.052764Z'
+publishDate: '2026-08-11T19:06:36.925755Z'
 publication_types:
 - manuscript
 publication: '*medRxiv*'
@@ -31,9 +31,12 @@ abstract: Classical psychedelics have regained interest for their potential to t
   trials (N=79; 255 sessions), we compared LSD, psilocybin, and mescaline with psychostimulants
   MDMA and d-Amphetamine. Compared to stimulants, psychedelics produced significant
   increases in meta-state complexity, short-timescale multiscale entropy, and dynamic
-  conditional correlation entropy. Both drug classes increased Lempel--Ziv and spatial
+  conditional correlation entropy. Both drug classes increased Lempel–Ziv and spatial
   complexity, and decreased absolute modularity. Our findings highlight psychedelic-specific
   effects on brain signals that distinguish the acute psychedelic state from other
   psychoactive drug effects and may be relevant for understanding their therapeutic
   potential.
+links:
+- name: URL
+  url: https://www.medrxiv.org/content/10.64898/2026.01.15.26344193v1
 ---
