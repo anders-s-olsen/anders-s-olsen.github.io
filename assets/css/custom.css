@@ -4,12 +4,31 @@
   max-width: 1200px;
 }
 
-/* Let the interests section use the full widened container. */
-#experience .max-w-prose {
+/* Let long homepage sections use the full widened container. */
+#experience .max-w-prose,
+#student_projects .max-w-prose,
+#publications .max-w-prose,
+#publications .max-w-3xl {
   max-width: 1200px;
   width: 100%;
 }
 
-#experience .prose {
+#experience .prose,
+#student_projects .prose {
   max-width: none;
+}
+
+/* Tighten the space below the CV button once the education block is hidden. */
+#section-resume-biography-3 .resume-biography {
+  padding-bottom: 3rem;
+}
+
+#section-resume-biography-3 .md\:col-span-8 > .mb-16:has(a[href$="resume.pdf"]) {
+  margin-bottom: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  #section-resume-biography-3 .resume-biography {
+    padding-bottom: 4rem;
+  }
 }
