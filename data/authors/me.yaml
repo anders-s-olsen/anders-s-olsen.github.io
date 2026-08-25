@@ -49,21 +49,21 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1275-6660
 
-education:
-  - degree: PhD Unsupervised Machine Learning and Functional Neuroimaging
-    institution: Technical University of Denmark
-    start: 2021-01-12
-    end: 2025-02-28
-  - degree: MSc Biomedical Engineering, 2021
-    institution: Technical University of Denmark
-    start: 2018-09-01
-    end: 2021-02-17
-    summary: |
-      Thesis on dynamic functional connectivity in sleep fMRI using Hidden Markov Models. 
-  - degree: BSc Biomedical engineering
-    institution: Technical University of Denmark
-    start: 2015-01-09
-    end: 2018-06-30
+# education:
+#   - degree: PhD Unsupervised Machine Learning and Functional Neuroimaging
+#     institution: Technical University of Denmark
+#     start: 2021-01-12
+#     end: 2025-02-28
+#   - degree: MSc Biomedical Engineering, 2021
+#     institution: Technical University of Denmark
+#     start: 2018-09-01
+#     end: 2021-02-17
+#     summary: |
+#       Thesis on dynamic functional connectivity in sleep fMRI using Hidden Markov Models. 
+#   - degree: BSc Biomedical engineering
+#     institution: Technical University of Denmark
+#     start: 2015-01-09
+#     end: 2018-06-30
 
 #experience:
 #  - role: Senior AI Research Scientist

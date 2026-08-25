@@ -3,3 +3,13 @@
 .home-section .container {
   max-width: 1200px;
 }
+
+/* Let the interests section use the full widened container. */
+#experience .max-w-prose {
+  max-width: 1200px;
+  width: 100%;
+}
+
+#experience .prose {
+  max-width: none;
+}
