@@ -7,7 +7,7 @@ authors:
 - Kristoffer Hougaard Madsen
 - Morten Mørup
 date: '2024-12-01'
-publishDate: '2026-08-11T19:06:36.721577Z'
+publishDate: '2026-11-04T08:40:47.256349Z'
 publication_types:
 - article-journal
 publication: '*Network Neuroscience*'

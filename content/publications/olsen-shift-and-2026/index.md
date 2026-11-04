@@ -9,7 +9,7 @@ authors:
 - Morten Mørup
 - Gitte M. Knudsen
 date: '2026-05-01'
-publishDate: '2026-08-11T19:06:37.142872Z'
+publishDate: '2026-11-04T08:40:47.733112Z'
 publication_types:
 - paper-conference
 publication: '*ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech
@@ -28,13 +28,13 @@ abstract: Dynamic neuroimaging data, such as emission tomography measurements of
   is able to account for stretching to provide more detailed characterization of brain
   tissue structure.
 tags:
+- Non-negative matrix factorization
 - Amplitude modulation
 - Communication systems
 - High frequency
 - HTTP
 - Local area networks
 - Modulation
-- Non-negative matrix factorization
 - Phase modulation
 - Protocols
 - Radio frequency

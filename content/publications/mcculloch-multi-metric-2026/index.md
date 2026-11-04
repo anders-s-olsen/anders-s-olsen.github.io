@@ -11,7 +11,7 @@ authors:
 - Gitte Moos Knudsen
 - Patrick MacDonald Fisher
 date: '2026-06-01'
-publishDate: '2026-08-11T19:06:37.169421Z'
+publishDate: '2026-11-04T08:40:47.760694Z'
 publication_types:
 - article-journal
 publication: '*Nature Communications*'
@@ -32,8 +32,8 @@ abstract: A prominent theory of psychedelics is that they increase brain entropy
   demonstrating that these metrics do not reflect a singular construct.
 tags:
 - Computational neuroscience
-- Neurology
 - Neuroscience
+- Neurology
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-026-74215-5

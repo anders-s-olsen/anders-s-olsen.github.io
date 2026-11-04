@@ -10,7 +10,7 @@ authors:
 - Patrick MacDonald Fisher
 - Vibe Gedsoe Frokjaer
 date: '2022-06-01'
-publishDate: '2026-08-11T19:06:36.783015Z'
+publishDate: '2026-11-04T08:40:47.324726Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Neuroscience*'
