@@ -43,13 +43,16 @@ sections:
         My methodological experience includes:
 
         - Unsupervised and probabilistic modeling: K-means, mixture models, Hidden Markov models, and stochastic block models for univariate, multivariate, and matrix-variate data.
-        - Matrix, tensor, and low-rank modeling: PCA and sparse PCA, ICA, NMF, sparse coding, archetypal analysis, coupled generator decompositions, Tucker and CP decompositions, generalized eigendecompositions, low-rank reparameterization.
-        - Directional and manifold-valued statistics on spaces including the real and complex hyperspheres, Grassmann manifold, torus, SPD/SPSD manifolds.
+        - Matrix, tensor, and low-rank modeling: PCA and sparse PCA, ICA, NMF, sparse coding, archetypal analysis, coupled generator (i.e., multisubject or multimodality) decompositions, Tucker and CP decompositions, generalized eigendecompositions, low-rank reparameterization.
+        - Directional and manifold-valued statistics on spaces including the real and complex (projective) hyperspheres, Grassmann manifold, torus, SPD/SPSD manifolds. Estimation methods: score matching, noise-contrastive estimation. 
         - Time-series and time–frequency analysis: Phase-coherence analysis, multitaper spectral and cross-spectral estimation, empirical and variational mode decomposition, time-shift- and time-stretch-invariant modeling.
         - Graph and spatial analysis: Graph analysis, graph signal processing, structural-connectome and cortical-geometric eigenmodes, Procrustes alignment.
         - Multisubject and multimodal data fusion: Joint modeling across subjects and functional neuroimaging modalities, particularly fMRI and combined EEG/MEG data.
+        - Entropy and complexity measures: LZ complexity, sample entropy, spectral entropy, and many more. 
+        - Tracer kinetics: compartment modelling of dynamic SPECT data. 
+        - Statistical inference: Linear mixed effects models with max-T permutation-based FWER control, survival analysis. 
         - Neuroimaging analysis software: fMRIPrep, ASLPrep, MRIQC, TEDANA, SPM, FSL, MNE-Python, EEGLAB, and Connectome Workbench.
-        - Proramming in Python (primary language since 2021), Matlab (since 2015), R (only minor experience)
+        - Programming in Python/PyTorch (primary language since 2021), Matlab (since 2015), R (only minor experience)
 
 
     design:
@@ -60,8 +63,8 @@ sections:
       title: 'Potential student projects'
       subtitle: ''
       text: |-
-        - Pulse detection in fast fMRI during sleep data using, e.g., ICA or sparse coding with a potential temporal shift invariance. **Significance**: To show the existence of norepinephrine spikes in the sleeping brain, signifying a potential important working mechanism of the *glymphatic system*, which is thought to cleanse the brain during sleep by propagating cerebrospinal fluid through the brain parenchyma. **Suggested prerequisites**: Coding experience in python/pytorch, interest in unsupervised machine learning and the brain. 
-        - Interregional brain phase coherence alterations as a function of psychedelic drugs. Two datasets: One on the acute effects of psilocybin (n=28) and one on the long-term effects of psilocybin (n~80 ish) (possible to include even more datasets). We have previously shown that a certain network of frontoparietal and default mode regions appear to be reduced in activity acutely following psilocybin. We now have improved methods and access to further datasets, allowing us to conduct a confirmatory study on the previously shown effects. **Significance**: The subjective effect of psychedelics are clear but previous analyses on fMRI data have shown differing results between analysis method and research groups. With the phase coherence analysis, we believe to be able to show consistent effects across datasets. **Suggested prerequisites**: Interest in psychedelic drugs and the brain, some coding experience (less method development, more analysis and data handling).
+        - *General*: I continuously supervise MSc theses on computational modeling of functional brain imaging. While the methods are most interesting for me, the projects always have an application to, e.g., consciousness (sleep, psychedelics, anesthesia) or glymphatic physiology. Ongoing student projects include the physics behind "brain spirals", toroidal models of dynamic functional connectivity, and modeling temporal smoothness in brain phase coherence states. If you are an MSc student looking for a project, feel free to reach out. 
+        - Pulse detection in fast fMRI during sleep data using, e.g., ICA or sparse coding with temporal shift invariance and possibly stretch invariance. **Significance**: To show the existence of norepinephrine spikes and other physiological movers in the sleeping brain, signifying a potential important working mechanism of the *glymphatic system*, which is thought to cleanse the brain during sleep by propagating cerebrospinal fluid through the brain parenchyma. **Suggested prerequisites**: Coding experience in python/pytorch, interest in unsupervised machine learning and the brain. 
         - Requirements for the Hilbert transform in fMRI data. The Hilbert transform is used to assess phase coherence between regional brain signals, but generally requires data to be "monocomponent", i.e., contains only one "type" of oscillation. Real data, both M/EEG and fMRI do not generally uphold this but nevertheless the Hilbert transform is still used to assess phase coherence. In this project we want to figure out the implications of this, i.e., 1. how much signal do we capture with existing methods and 2. what can we do to capture more (artefact removal, filtering etc). **Significance**: This study will enable a more correct characterization of brain networks by reducing the heuristics needed to model such. **Suggested prerequisites**: An interest in math and/or signal processing and coding in matlab or python. The project will mainly be theoretical / use synthetic data but application to brain networks is a possibility. 
 
     design:
