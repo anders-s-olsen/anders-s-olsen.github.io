@@ -6,7 +6,7 @@ authors:
 - Jesper D. Nielsen
 - Morten Mørup
 date: '2024-08-01'
-publishDate: '2026-11-04T08:40:47.437248Z'
+publishDate: '2026-11-06T15:14:22.396079Z'
 publication_types:
 - paper-conference
 publication: '*2024 32nd European Signal Processing Conference (EUSIPCO)*'

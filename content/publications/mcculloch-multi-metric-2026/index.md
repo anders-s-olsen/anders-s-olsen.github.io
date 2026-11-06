@@ -11,7 +11,7 @@ authors:
 - Gitte Moos Knudsen
 - Patrick MacDonald Fisher
 date: '2026-06-01'
-publishDate: '2026-11-04T08:40:47.760694Z'
+publishDate: '2026-11-06T15:14:22.475605Z'
 publication_types:
 - article-journal
 publication: '*Nature Communications*'

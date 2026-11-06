@@ -9,7 +9,7 @@ authors:
 - Morten Mørup
 - Gitte M. Knudsen
 date: '2026-05-01'
-publishDate: '2026-11-04T08:40:47.733112Z'
+publishDate: '2026-11-06T15:14:22.468845Z'
 publication_types:
 - paper-conference
 publication: '*ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech

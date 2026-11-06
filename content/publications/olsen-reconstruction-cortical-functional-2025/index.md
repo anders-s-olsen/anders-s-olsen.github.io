@@ -9,7 +9,7 @@ authors:
 - Dimitri Van De Ville
 - Hamid Behjat
 date: '2025-04-01'
-publishDate: '2026-11-04T08:40:47.705631Z'
+publishDate: '2026-11-06T15:14:22.461873Z'
 publication_types:
 - paper-conference
 publication: '*2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)*'

@@ -16,7 +16,7 @@ authors:
 - Oskar Hansson
 - Hamid Behjat
 date: '2025-04-01'
-publishDate: '2026-11-04T08:40:47.677546Z'
+publishDate: '2026-11-06T15:14:22.454909Z'
 publication_types:
 - paper-conference
 publication: '*2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)*'

@@ -7,7 +7,7 @@ authors:
 - Dimitri Van De Ville
 - Morten Mørup
 date: '2026-11-01'
-publishDate: '2026-11-04T08:40:47.860109Z'
+publishDate: '2026-11-06T15:14:22.505640Z'
 publication_types:
 - manuscript
 publication: '*arXiv*'
@@ -34,9 +34,9 @@ abstract: Many signal-processing objects are defined by periodicity, normalizati
   together, they have the potential to lead to improved models across a broad range
   of signal processing applications.
 tags:
-- Electrical Engineering and Systems Science - Signal Processing
-- Statistics - Machine Learning
 - Statistics - Methodology
+- Statistics - Machine Learning
+- Electrical Engineering and Systems Science - Signal Processing
 links:
 - name: URL
   url: http://arxiv.org/abs/2611.04595
